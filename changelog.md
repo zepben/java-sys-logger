@@ -1,6 +1,6 @@
 # Java Sys Logger changelog
 
-## v1.3.0 - UNRELEASED
+## [1.3.0] - UNRELEASED
 
 ### Breaking Changes
 * None.
@@ -17,7 +17,7 @@
 ### Notes
 * None.
 
-## v1.2.0
+## [1.2.0]
 
 Initial open source release of java-sys-logger
 
