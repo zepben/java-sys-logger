@@ -1,6 +1,6 @@
-# Release History
+# Java Sys Logger changelog
 
-## v1.3.0
+## v1.3.0 - UNRELEASED
 
 ### Breaking Changes
 * None.
