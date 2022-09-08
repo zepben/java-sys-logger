@@ -9,7 +9,7 @@
 
     <groupId>com.zepben.logging</groupId>
     <artifactId>java-sys-logger</artifactId>
-    <version>1.3.0-SNAPSHOT</version>
+    <version>1.3.0-SNAPSHOT1</version>
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Sys logger</description>
     <url>https://github.com/zepben/java-sys-logger/</url>
